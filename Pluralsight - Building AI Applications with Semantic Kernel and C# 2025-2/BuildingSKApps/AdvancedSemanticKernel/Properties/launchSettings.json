@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AdvancedSemanticKernel": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "OPENAI_API_KEY": "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"
+      }
+    }
+  }
+}

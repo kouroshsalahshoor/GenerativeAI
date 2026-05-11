@@ -1,0 +1,18 @@
+{
+  "profiles": {
+    "UseAzureAIServicesFromNET": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "LANGUAGE_KEY": "<ADD_YOUR_LANGUAGE_KEY_HERE>",
+        "LANGUAGE_ENDPOINT": "<ADD_YOUR_LANGUAGE_ENDPOINT_URL_HERE>",
+        "VISION_KEY": "<ADD_YOUR_VISION_KEY_HERE>",
+        "VISION_ENDPOINT": "ADD_YOUR_VISION_ENDPOINT_URL_HERE",
+        "SPEECH_KEY": "<ADD_YOUR_SPEECH_KEY_HERE>",
+        "SPEECH_REGION": "westeurope",
+        "TRANSLATION_KEY": "<ADD_YOUR_TRANSLATE_KEY_HERE>",
+        "TRANSLATION_ENDPOINT": "ADD_YOUR_TRANSLATE_ENDPOINT_URL_HERE",
+        "TRANSLATION_REGION": "northeurope"
+      }
+    }
+  }
+}
